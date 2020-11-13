@@ -1,6 +1,6 @@
-<p style="text-align: center;"><img src="https://github.com/gui1612/gui1612/blob/main/gifs/dino-chrome.gif"></p>
+<img src="https://github.com/gui1612/gui1612/blob/main/gifs/dino-chrome.gif">
 
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p style="text-align: center;"># Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></p>
 
 I'm a freshman at FEUP studying Informatics Engineer. I'm a tech enthusiast and I hope I never love to learn new stuff.
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
