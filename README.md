@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Editor-IntelliJ IDEA-informational?style=flat&logo=IntelliJ-IDEA&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU-Bash&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
