@@ -1,3 +1,5 @@
+<img src="https://github.com/gui1612/gui1612/blob/main/gifs/dino-chrome.gif">
+
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a freshman at FEUP studying Informatics Engineer. I'm a tech enthusiast and I hope I never love to learn new stuff.
