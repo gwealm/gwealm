@@ -1,4 +1,4 @@
-<img src="https://github.com/gui1612/gui1612/blob/main/gifs/dino-chrome.gif">
+<p style="text-align: center;"><img src="https://github.com/gui1612/gui1612/blob/main/gifs/dino-chrome.gif"></p>
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
