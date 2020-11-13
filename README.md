@@ -21,4 +21,4 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ### :chart: Github Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=gui1612&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=gui1612&count_private=true)
