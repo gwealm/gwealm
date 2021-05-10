@@ -21,8 +21,8 @@
 <p>
   
   <!--- OS ---> 
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU-Bash&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux-informational?style=flat&logo=arch%20linux&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=GNU-Bash&logoColor=white&color=2bbc8a">
     
   <!--- Tools --->   
   <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a">
@@ -34,10 +34,12 @@
   
   <!--- Programming languages ---> 
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-Css-informational?style=flat&logo=Css3&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a">
   
 </p>
 
