@@ -12,7 +12,7 @@
 </a>
 <a href="mailto:guialda1234@gmail.com">
   <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>
-</a>
+</a>https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a
 
 
 
@@ -32,11 +32,11 @@
   <img src="https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=flat&logo=IntelliJ-IDEA&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a">
   
-  <!--- Programming languages ---> 
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a">
+  <!--- Programming languages --->
   <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-Css-informational?style=flat&logo=Css3&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a">
