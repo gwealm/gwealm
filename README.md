@@ -1,7 +1,7 @@
 ### Hi there, I'm Guilherme Almeida! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--- Brief description ---> 
-:computer: MSc in Informatics and Computing Engineering (year 1/5) [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br />
+:computer: MSc in Informatics and Computing Engineering (year 2/5) [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br />
 :telescope: I’m currently working on personal projects and always looking for new opportunities <br />
 :seedling: I'm a tech enthusiast and an avid fan of Linux. Check my dotfiles [here](https://github.com/gui1612/dotfiles) <br />
 :sparkles: I also like to play drums and jog in my free time <br />
