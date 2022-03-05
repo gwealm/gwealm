@@ -44,7 +44,7 @@
 
 #### 📈 Github Stats
 
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gui1612&count_private=true&theme=dark&show_icons=true&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui1612&theme=dark&show_icons=true&layout=compact&hide_border=true& exclude_repo=github-readme-stats,anuraghazra.github.io" />
+<div style="display: flex; flex-direction: row;">
+  <img alt="Guilherme Almeida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gui1612&count_private=true&theme=dark&show_icons=true&hide_border=true" />
+  <img alt="Guilherme Almeida's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui1612&theme=dark&show_icons=true&layout=compact&hide_border=true& exclude_repo=github-readme-stats,anuraghazra.github.io" />
 </div>
