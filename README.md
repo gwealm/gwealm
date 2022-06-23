@@ -61,7 +61,7 @@ You can find my articles on my website at [gui1612.com](https://gui1612.com/)
 
 ## &#x1f4c8; GitHub Stats
 
-|<a href="https://github.com/gui1612"><img align="center" alt="Guilherme Almeida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gui1612&count_private=true&theme=dark&show_icons=true&hide_border=true" alt="gui1612's GitHub Stats"/></a>|<a href="https://github.com/gui1612"><img align="center" alt="Guilherme Almeida's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui1612&theme=dark&show_icons=true&layout=compact&hide_border=true&line_height=27" alt="gui1612's GitHub Stats"/></a> |
+|<a href="https://github.com/gui1612"><img align="center" alt="Guilherme Almeida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gui1612&count_private=true&theme=dark&show_icons=true&hide_border=true" alt="gui1612's GitHub Stats"/></a>|<a href="https://github.com/gui1612"><img align="center" alt="Guilherme Almeida's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui1612&hide=html&theme=dark&show_icons=true&layout=compact&hide_border=true&line_height=27" alt="gui1612's GitHub Stats"/></a> |
 | ------------- | ------------- |
 
 <!-- Resources -->
