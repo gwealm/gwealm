@@ -54,7 +54,7 @@ Apart from coding, I also have a blog where I'll post about:
    - Writeups from challenges I find interesting
    - My projects and their development walkthroughs
    - Topics I find interesting
-... Or even just daily stuff outside of the development scope
+   - Daily stuff outside of the development scope
 
 You can find my articles on my website at [gui1612.com](https://gui1612.com/)
 
