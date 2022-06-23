@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Css3&logoColor=white&color=2bbc8a">
@@ -60,12 +61,8 @@ You can find my articles on my website at [gui1612.com](https://gui1612.com/)
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" alt="Guilherme Almeida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gui1612&count_private=true&theme=dark&show_icons=true&hide_border=true" alt="gui1612's GitHub Stats/>
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" alt="Guilherme Almeida's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui1612&theme=dark&show_icons=true&layout=compact&hide_border=true&line_height=27" alt="gui1612's GitHub Stats"/>
-</a>
+|<a href="https://github.com/gui1612"><img align="center" alt="Guilherme Almeida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gui1612&count_private=true&theme=dark&show_icons=true&hide_border=true" alt="gui1612's GitHub Stats"/></a>|<a href="https://github.com/gui1612"><img align="center" alt="Guilherme Almeida's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui1612&theme=dark&show_icons=true&layout=compact&hide_border=true&line_height=27" alt="gui1612's GitHub Stats"/></a> |
+| ------------- | ------------- |
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
