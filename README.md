@@ -2,7 +2,7 @@
 
 <!--- Brief description ---> 
 :computer: MSc in Informatics and Computing Engineering (year 2/5) [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br />
-:telescope: I’m currently interested in picking up Rust, Go and diving in some open source and personal projects <br />
+:telescope: I’m currently interested in Cloud Technologies, picking up Rust and diving in some open source and personal projects <br />
 :seedling: I'm a tech enthusiast and an avid fan of Linux. Check my dotfiles [here](https://github.com/gui1612/dotfiles) <br />
 :sparkles: I also like to play drums and jog in my free time <br />
 
