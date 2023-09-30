@@ -50,31 +50,13 @@
 
 </p>
 
-<div class="container">
-    <div class="text">
-        <h2>&#x270d; Blog & Writing</h2>
-        <ul>
-            <li>Infosec Articles</li>
-            <li>Writeups from challenges I find interesetin</li>
-            <li>My projects and their development walkthroughs</li>
-            <li>Topics I find interesting</li>
-            <li>Daily stuff outside of the development scope</li>
-        </ul>
-    </div>
-    <div class="image">
-        <a href="https://app.daily.dev/guilhermealmeida"><img src="https://api.daily.dev/devcards/0576691c6dc04bbeb23605a8452b3322.png?r=5tu" width="400" alt="Guilherme Almeida's Dev Card"/></a>
-    </div>
-</div>
-
-
-## &#x270d; Blog & Writing
-
-Apart from coding, I also have a blog where I'll post about:
-   - Infosec articles
-   - Writeups from challenges I find interesting
-   - My projects and their development walkthroughs
-   - Topics I find interesting
-   - Daily stuff outside of the development scope
+<ul>
+    <li>Infosec Articles</li>
+    <li>Writeups from challenges I find interesetin</li>
+    <li>My projects and their development walkthroughs</li>
+    <li>Topics I find interesting</li>
+    <li>Daily stuff outside of the development scope</li>
+</ul>
 
 You can find my articles on my website at [gui1612.com](https://gui1612.com/)
 
