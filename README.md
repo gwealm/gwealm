@@ -25,7 +25,7 @@ You can find out more at [gwealm.com](https://gwealm.com/) !! 🚀
 ### Contact me:
 
 <a href="mailto:me@gwealm.com" target="_blank"><img src="https://img.shields.io/badge/Email-me@gwealm.com-teal?style=for-the-badge&color=8a73ac&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/gwealm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Almeida-teal?style=for-the-badge&color=8a73ac&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/guilherme-m-almeida/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Almeida-teal?style=for-the-badge&color=8a73ac&logo=linkedin"></a>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
